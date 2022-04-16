@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 $theme: "litera";
 $white: #fff;
 $gray-100: #f8f9fa;
@@ -47,7 +47,7 @@ $btn-border-radius: 1.078em;
 $btn-border-radius-lg: 2.688em;
 $btn-border-radius-sm: .844em;
 $input-border-color: rgba(0, 0, 0, .1);
-$input-group-addon-bg: $gray-200 !default;
+$input-group-addon-bg: $gray-200;
 $navbar-dark-color: rgba($white, .6);
 $navbar-dark-hover-color: $pink;
 $navbar-light-hover-color: $pink;
@@ -79,3 +79,5 @@ $pagination-color: $black;
 $card-color: $black;
 $card-cap-color: $black;
 $modal-content-color: $black;
+$list-group-hover-bg: $pink;
+$link-hover-color: $blue;

@@ -128,7 +128,7 @@ a {
   text-decoration: none;
   background-color: transparent; }
   a:hover {
-    color: #d9d9d9;
+    color: #4582ec;
     text-decoration: none; }
 
 a:not([href]) {
@@ -2161,7 +2161,7 @@ fieldset:disabled a.btn {
   color: #fff;
   text-decoration: none; }
   .btn-link:hover {
-    color: #d9d9d9;
+    color: #4582ec;
     text-decoration: none; }
   .btn-link:focus, .btn-link.focus {
     text-decoration: none; }
@@ -3512,7 +3512,7 @@ input[type="button"].btn-block {
   border: 1px solid #ddd; }
   .page-link:hover {
     z-index: 2;
-    color: #d9d9d9;
+    color: #4582ec;
     text-decoration: none;
     background-color: #e9ecef;
     border-color: #ddd; }
@@ -3846,7 +3846,7 @@ input[type="button"].btn-block {
     z-index: 1;
     color: #3D4149;
     text-decoration: none;
-    background-color: #f8f9fa; }
+    background-color: #e83e8c; }
   .list-group-item-action:active {
     color: #fff;
     background-color: #e9ecef; }
